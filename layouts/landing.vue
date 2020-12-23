@@ -16,5 +16,7 @@ export default {
 </script>
 
 <style scoped>
-#main {}
+#main {
+    /* ... */
+}
 </style>

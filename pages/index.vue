@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="px-0">
         <b-container id="landing">
-            <b-row>
+            <b-row class="mx-0">
                 <b-col cols="12" lg="6" class="teaser-text">
                     <n-link :to="'/tools'" class="text-light">
                         Wir schaffen Durchblick im App-Dschungel für Streamer und Inhaltserzeuger →
